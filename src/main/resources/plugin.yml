@@ -1,0 +1,9 @@
+name: PlayerDamage
+version: '${project.version}'
+main: com.playerdamage.PlayerDamage
+api-version: '1.13'
+commands:
+  pdamage:
+    description: "Reload"
+    permission: playerdamage.main
+    aliases: pde
